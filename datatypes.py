@@ -1,0 +1,10 @@
+age= int(input("enter your age: "))
+print(type(age))
+weight = float(input("enter your weight (KG): "))
+print(type(weight))
+name = str(input("what is your name: "))
+print(type(name))
+flag = True
+print(type(flag))
+choice = input("use a digit or a single character:")
+print(type(choice))

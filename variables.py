@@ -8,3 +8,7 @@ print("name of student: ", name)
 print("address of student: ", address)
 print("age of student: ", age)
 print("phone number of student: ", phone_number)
+#gender
+ch = input("enter your gender: M or F ")
+print(ch)
+ch = 'M'
