@@ -1,0 +1,10 @@
+cost = float(input("what is the cost of your oranges?: "))
+sell= float(input("what are you selling the oranges for "))
+
+if  sell > cost:
+    profit = sell - cost
+    print("You made profit!!! ", profit, "rupees made")
+else:
+    loss = cost - sell
+    print(" you lost profit!!!", loss,"rupees lost" )
+
