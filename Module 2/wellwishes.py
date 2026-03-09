@@ -1,4 +1,4 @@
-def hi():
+def hi(): #refining a function
     print("hello!")
     
-hi()
+hi() #thisis how to call a function
